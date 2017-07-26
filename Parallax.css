@@ -13,12 +13,12 @@ img {
 }
 
 .container {
-	-webkit-overflow-scrolling: touch;
-	-webkit-perspective: 1px;
-	perspective: 1px;
 	overflow-x: hidden;
 	overflow-y: auto;
 	height: 100vh;
+	-webkit-perspective: 1px;
+	perspective: 1px;
+	-webkit-overflow-scrolling: touch;
 }
 
 .herounit {

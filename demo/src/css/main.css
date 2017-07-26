@@ -8,7 +8,6 @@
 	position: relative;
 	z-index: 2;
 	-webkit-transform: translateZ(0);
-	transform: translateZ(0);
 	background-color: #fff;
 	height: 100%;
 	text-align: center;
@@ -16,21 +15,25 @@
 }
 
 .title {
-	top: -600px;
-	position: relative;
+	top: 3%;
+	margin: auto;
+	position: absolute;
+	-webkit-transform: translateZ(-0.5px) scale(1.5);
+	transform: translateZ(-0.5px) scale(1.5);
 	text-align: center;
-	-webkit-transform: translateZ(-1px) scale(1.5);
-	transform: translateZ(-1px) scale(1.5);
+	left: calc(50% - 190px);
+	
 }
 
 .name {
-	font-size: 150px;
+	font-size: 70px;
 	font-weight: 900;
-	margin-top: -50px;
 }
 
 .bandName {
-	font-size: 70px;
+	font-size: 40px;
+	margin: auto;
+
 }
 
 .herotext h1 {

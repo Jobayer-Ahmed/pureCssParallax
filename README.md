@@ -9,7 +9,8 @@ http://
 Download the Packege or include **parallax.min.css** in your document just before including CSS.
 
 ``` html
-<link rel="stylesheet" href="/path/to/parallax.min.css">```
+<link rel="stylesheet" href="/path/to/parallax.min.css">
+```
 
 ## Usage
 

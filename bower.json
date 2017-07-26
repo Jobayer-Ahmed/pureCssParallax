@@ -1,0 +1,19 @@
+{
+  "name": "parallax.css",
+  "version": "1.0.0",
+  "homepage": "http://jobayer-ahmed.github.io/PureCssParallax/demo",
+  "description": "Simple parallax scrolling effect using css3",
+  "authors": [
+    "Jobayer Ahmed Mickey <jobayerahmedmickey@gmail.com> (http://jamickey.me)",
+  ],
+  "main": "parallax.min.css",
+  "license": "MIT",
+  "keywords" : ["parallax", "scroll", "scrolling", "image"],
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "css": ">=3.0.0"
+  }
+}

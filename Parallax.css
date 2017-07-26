@@ -1,0 +1,34 @@
+* {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+
+html {
+	overflow: hidden;
+}
+
+img {
+	width: 100vw;
+}
+
+.container {
+	-webkit-overflow-scrolling: touch;
+	-webkit-perspective: 1px;
+	perspective: 1px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	height: 100vh;
+}
+
+.herounit {
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
+}
+
+.heroimg {
+	-webkit-transform: translateZ(-1px) scale(2);
+	transform: translateZ(-1px) scale(2);
+	position: relative;
+  	top: calc(((100vh - 51.54vw) / 4) * -2);
+}

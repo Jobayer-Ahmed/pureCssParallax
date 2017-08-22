@@ -1,7 +1,7 @@
 PureCssParallax
 ===========
 
-Simple parallax scrolling effect inspired by **[Parallax.js](http://pixelcog.github.io/parallax.js/)** implemented as a **CSS3** plugin. **[Demo](https://jobayer-ahmed.github.io/PureCssParallax/demo/)**
+Simple parallax scrolling effect inspired by **[Parallax.js](http://pixelcog.github.io/parallax.js/)** implemented as a **CSS3** plugin. **[Demo](https://jobayer-ahmed.github.io/pureCssParallax/demo/)**
 
 ## Installation
 
